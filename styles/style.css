@@ -64,8 +64,8 @@ main {
 .nav-link {
     text-decoration: none;
     font-weight: 500;
-
 }
+
 
 .navbar,
 .banner {
@@ -233,6 +233,7 @@ footer {
     .teams,
     .features {
         flex-direction: column;
+        text-align: center;
     }
 
     .team-img-container,
